@@ -1,6 +1,6 @@
 {
   "name": "globat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concatenate files in alphabetical order with glob pattern.",
   "main": "index.js",
   "author": "Hideyuki Hirauchi<hideyuki@hirauchi.com>",
