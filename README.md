@@ -6,7 +6,7 @@ Concatenate files in alphabetical order with glob pattern.
 
 ## INSTALL
 ```
-npm -i globat
+yarn add globat
 ```
 
 ## USAGE
